@@ -6,7 +6,7 @@
 - planH 보험사 페이지 내재화 프로젝트 (JSP-> Next.js)
 - pinchZoomPaser Utill (html로 동적으로 받는 hmall 이미지에 flag 형식 pinchZoom적용)
 
-STClab NetFUNNEL팀
+STCLab NetFUNNEL팀 
 -
 2025.11.03 - 재직중
 
