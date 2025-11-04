@@ -15,7 +15,7 @@ planH 보험사 페이지 hmall 내재화 프로젝트 - 지점찾기 페이지 
 - https://hyundaiplanh.com/support/branch/list.do
 - 백엔드 api 개발 지연으로 인한 지연 / Next 이전까지 완료
   
-매장 html 영역에 삽입된 이미지 일부 영역에 핀치줌 파서 유틸 제작
+매장 html 영역에 삽입된 이미지 일부 영역에 핀치줌 유틸 개발
 - pinchZoomParser Utill (특정 프로퍼티가 들어가있으면 파서에서 조건부로 줌핀치가 가능하게) 
 - https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243
 - searchSpexSectItem 영역에서 동적으로 주입받는 html 특정 영역이 줌핀치가 가능하게 해 주는 유틸 
