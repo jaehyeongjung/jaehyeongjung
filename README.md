@@ -5,9 +5,18 @@ Frontend
 
 2025.08.18 - 2025.10.31 
 
-- hmall 단축 URL 페이지 리팩토링 (Compound Pattern) 
-- planH 보험사 페이지 hmall 내재화 프로젝트 (JSP-> Next.js)
-- pinchZoomParser Utill (동적으로 html을 주입해주는 부분에서 조건부 flag 형식 pinchZoom 적용 유틸)
+hmall 단축 URL 페이지 리팩토링 담당 (Compound Pattern)
+- https://www.hmall.com/md/shortUrl
+- https://www.hmall.com/md/shortUrl/lookup
+  
+planH 보험사 페이지 hmall 내재화 프로젝트 - 지점찾기 페이지 담당 (JSP-> Next.js)
+- https://hyundaiplanh.com/support/branch/list.do
+  
+매장 html 영역에 삽입된 이미지 일부 영역에 핀치줌 적용 가능하도록 개발 진행
+- pinchZoomParser Utill (특정 프로퍼티가 들어가있으면 파서에서 조건부로 줌핀치가 가능하게) 
+- https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243
+- searchSpexSectItem 영역에서 동적으로 주입받는 html 특정 영역이 줌핀치가 가능하게 해 주는 유틸 
+
 
 **STCLab NetFUNNEL팀**
 
