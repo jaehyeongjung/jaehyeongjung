@@ -5,7 +5,7 @@ Frontend
 
 2025.08.18 - 2025.10.31 
 
-hmall 단축 URL 페이지 리팩토링 담당 (Compound Pattern)
+hmall 단축 URL 페이지 리팩토링 담당 (Compound Component Pattern)
 - https://www.hmall.com/md/shortUrl
 - https://www.hmall.com/md/shortUrl/lookup
   
