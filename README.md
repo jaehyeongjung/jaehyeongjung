@@ -1,28 +1,29 @@
-Frontend 
--
-
-**현대홈쇼핑 UI 개발파트팀**
-
-2025.08.18 - 2025.10.31 [인턴]
-
-hmall 단축 URL 페이지 리팩토링 담당 
-
-- 기능별 분리, 불 필요하게 반복되는 코드 컴포넌트 화, Compound Component pattern 적용 
-- https://www.hmall.com/md/shortUrl
-- https://www.hmall.com/md/shortUrl/lookup
-  
-planH 보험사 페이지 hmall 내재화 프로젝트 - 지점찾기 페이지 담당 (JSP-> Next.js)
-- https://hyundaiplanh.com/support/branch/list.do
-- 백엔드팀 api 개발 지연으로 인한 연기 / Next 이전까지 완료
-  
-hmall 전시매장, 동적 삽입되는 html 일부 영역에 조건부 핀치줌 적용 유틸 개발
-- admin에서 데이터를 넘겨줄 때 특정 영역에만 flag값을 포함해서 넘겨주면 핀치줌이 적용
-- https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243
-
-----
-
-**STCLab NetFUNNEL팀**
-
-2025.11.03 - 재직중 [인턴]
+# Frontend Experience
 
 
+### 💻 현대홈쇼핑 UI 개발파트팀 (인턴)
+**2025.08.18 – 2025.10.31**
+
+### 📌 hmall 단축 URL 페이지 리팩토링
+- 기능 단위로 코드 구조 재분리
+- 반복되는 영역을 컴포넌트화
+- Compound Component 패턴 적용
+- 🔗 [단축 URL 페이지](https://www.hmall.com/md/shortUrl)
+- 🔗 [조회 페이지](https://www.hmall.com/md/shortUrl/lookup)
+
+### 📌 planH 보험사 페이지 hmall 내재화 프로젝트 – 지점찾기 페이지 (JSP → Next.js)
+- 기존 JSP 기반 페이지를 Next.js로 마이그레이션
+- 🔗 [페이지 링크](https://hyundaiplanh.com/support/branch/list.do)
+- 백엔드 API 개발 일정 지연으로 프로젝트 일정 연기
+- 프론트엔드 관점의 Next.js 구조 전환 완료
+
+### 📌 hmall 전시매장 / 동적 HTML 영역 조건부 핀치줌 유틸 개발
+- Admin에서 flag를 전달하면 특정 영역에만 pinch-zoom 적용
+- 동적으로 삽입되는 HTML 일부에만 기능 제한적으로 적용
+- 🔗 [페이지 링크](https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243)
+
+---
+
+## 💻 STCLab NetFUNNEL팀 (인턴)
+**2025.11.03 – 현재**
+- 재직 중
