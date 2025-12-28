@@ -20,5 +20,5 @@
 ---
 **2025.11.03 – 현재**
 ##  STCLab NetFUNNEL팀 Frontend engineer (인턴)
-- 넷퍼넬 SaaS 가상 대기실 사운드 버튼 [FE]
+- 넷퍼넬 SaaS 가상 대기실 - 대기 완료 사운드[FE]
   
