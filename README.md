@@ -1,7 +1,7 @@
 # Frontend Experience
 
 **2025.08.18 – 2025.10.31**
-###  현대홈쇼핑 UI 개발파트팀 (인턴)
+###  현대홈쇼핑 UI 개발파트팀 
 
 
 #### hmall 단축 URL 페이지 리팩토링
@@ -19,6 +19,6 @@
 
 ---
 **2025.11.03 – 현재**
-##  STCLab NetFUNNEL팀 Frontend engineer (인턴)
+##  STCLab NetFUNNEL팀 Frontend engineer
 - 넷퍼넬 가상 대기실 SaaS - 대기 완료 사운드 기능[FE]
   
