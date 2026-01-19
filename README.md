@@ -51,7 +51,9 @@
 
 * SaaS 환경을 고려한 기능 단위 설계 및 확장성 중심 구현
 
-* CI 단계에서 GitHub Actions로 빌드 자동화 후 Argo CD를 통한 배포 파이프라인 운영
+* 기존 GitHub Actions와 Argo CD로 구성된 CI/CD 환경에서
+프론트엔드 빌드 및 배포 흐름에 맞춰 서비스 개발과 배포 검증 수행
+
 
 * **On-Premise 환경 빗썸 구축**
 
