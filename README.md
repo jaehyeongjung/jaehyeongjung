@@ -1,6 +1,7 @@
 # Frontend Experience
 
-🔗 **Resume:** [https://chopa-chi.vercel.app/](https://chopa-chi.vercel.app/)
+🔗 **Resume:** https://chopa-chi.vercel.app/
+
 
 ---
 
