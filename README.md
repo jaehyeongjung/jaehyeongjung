@@ -1,9 +1,16 @@
-# Frontend Experience
+# chopaChung 
 
-🔗 **Resume:** https://chopa-chi.vercel.app/
+<a href="https://chopa-chi.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/VIEW%20RESUME-Frontend%20Developer-0A84FF?style=for-the-badge&labelColor=111111"
+    alt="Resume Button"
+  />
+</a>
+
 
 
 ---
+# Frontend Experience
 
 **2025.08.18 – 2025.10.31**
 
