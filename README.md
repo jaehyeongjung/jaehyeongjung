@@ -1,5 +1,9 @@
 # Frontend Experience
 
+🔗 **Resume:** [https://chopa-chi.vercel.app/](https://chopa-chi.vercel.app/)
+
+---
+
 **2025.08.18 – 2025.10.31**
 
 ### 현대홈쇼핑 UI 개발파트팀
@@ -32,12 +36,13 @@
 ## STCLab NetFUNNEL팀 Frontend Engineer
 
 **Tech Stack:** React, Vite, TypeScript
-**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS)
+**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS / On-Prem 환경)
 
 * 넷퍼넬 가상 대기실 SaaS – 대기 완료 사운드 기능 개발 [FE]
 
 * SaaS 환경을 고려한 기능 단위 설계 및 확장성 중심 구현
 
+* CI 단계에서 GitHub Actions로 빌드 자동화 후 Argo CD를 통한 배포 파이프라인 운영
 
 * **On-Premise 환경 빗썸 구축**
 
