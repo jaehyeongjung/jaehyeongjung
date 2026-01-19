@@ -1,9 +1,12 @@
-
 <a href="https://chopa-chi.vercel.app/" target="_blank">
   <img
-    src="https://img.shields.io/badge/Resume-chopaChung-ffffff?style=for-the-badge&labelColor=0064FF"
+    src="https://img.shields.io/badge/Resume-chopaChung-0064FF?style=for-the-badge&labelColor=111111"
+    alt="Resume"
   />
 </a>
+
+
+
 
 
 
