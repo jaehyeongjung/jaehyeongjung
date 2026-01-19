@@ -21,7 +21,7 @@
 
 #### hmall 전시매장 / 동적 HTML 영역 조건부 핀치줌 유틸 개발
 
-* Admin flag 기반으로 특정 영역에만 pinch-zoom 적용하는 유틸리티 개발
+* Admin flag 기반으로 특정 영역에만 pinch-zoom을 적용하는 유틸리티 개발
 * 동적 HTML 환경에서도 안정적으로 동작하도록 이벤트 처리 최적화
 * 🔗 [전시매장 링크](https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243)
 
@@ -32,11 +32,16 @@
 ## STCLab NetFUNNEL팀 Frontend Engineer
 
 **Tech Stack:** React, Vite, TypeScript
-**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS 환경)
+**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS)
 
 * 넷퍼넬 가상 대기실 SaaS – 대기 완료 사운드 기능 개발 [FE]
-* CI 단계에서 빌드 자동화 후 Argo CD를 통한 배포 파이프라인 경험
+
 * SaaS 환경을 고려한 기능 단위 설계 및 확장성 중심 구현
+
+
+* **On-Premise 환경 빗썸 구축**
+
+  * Okta SSO 로그인 연동 및 On-Prem 환경에 맞춘 인증 플로우 설계·구현
 
 ---
 
@@ -47,4 +52,4 @@
 
 * 실시간 트레이딩 커뮤니티를 위한 PC 기반 서비스 개발
 * App Router 기반 구조 설계 및 빠른 반복 개발
-* 인증 및 데이터 관리를 Supabase로 구성, Vercel을 통한 자동 배포
+* Supabase 기반 인증·데이터 관리 및 Vercel 자동 배포 환경 구성
