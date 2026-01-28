@@ -12,25 +12,22 @@
 ### 현대홈쇼핑 UI 개발파트팀
 
 **Tech Stack:** Next.js (Page Router), TypeScript, Vanilla Extract
-**Deployment:** Bitbucket 기반 직접 배포 (사내 인프라)
+**Deployment:** Bitbucket 기반 배포 (사내 인프라)
 
 #### hmall 단축 URL 페이지 리팩토링
 
 * 기능 단위로 코드 구조 재분리 및 Compound Component Pattern 적용
 * UI / 로직 분리를 통해 재사용성과 유지보수성 개선
-* 🔗 [단축 URL 페이지](https://www.hmall.com/md/shortUrl) | [조회 페이지](https://www.hmall.com/md/shortUrl/lookup)
 
 #### planH 보험사 페이지 hmall 내재화 프로젝트 – 지점찾기 페이지 (JSP → Next.js)
 
 * 기존 JSP 기반 페이지를 Next.js(Page Router)로 마이그레이션
 * 레거시 구조 분석 후 CSR/SSR 혼합 구조로 재설계
-* 🔗 [planH 링크](https://hyundaiplanh.com/support/branch/list.do)
 
 #### hmall 전시매장 / 동적 HTML 영역 조건부 핀치줌 유틸 개발
 
 * Admin flag 기반으로 특정 영역에만 pinch-zoom을 적용하는 유틸리티 개발
 * 동적 HTML 환경에서도 안정적으로 동작하도록 이벤트 처리 최적화
-* 🔗 [전시매장 링크](https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=1628243)
 
 ---
 
@@ -39,7 +36,7 @@
 ## STCLab NetFUNNEL팀 Frontend Engineer
 
 **Tech Stack:** React, Vite, TypeScript
-**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS / On-Prem 환경)
+**Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS)
 
 * 넷퍼넬 가상 대기실 SaaS – 대기 완료 사운드 기능 개발 [FE]
 
