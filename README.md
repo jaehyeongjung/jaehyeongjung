@@ -22,7 +22,6 @@
 #### planH 보험사 페이지 hmall 내재화 프로젝트 – 지점찾기 페이지 (JSP → Next.js)
 
 * 기존 JSP 기반 페이지를 Next.js(Page Router)로 마이그레이션
-* 레거시 구조 분석 후 CSR/SSR 혼합 구조로 재설계
 
 #### hmall 전시매장 / 동적 HTML 영역 조건부 핀치줌 유틸 개발
 
