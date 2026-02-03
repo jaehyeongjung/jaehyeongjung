@@ -11,7 +11,7 @@
 
 ### 현대홈쇼핑 UI 개발파트팀
 
-**Tech Stack:** Next.js (Page Router), TypeScript, Vanilla Extract
+**Tech Stack:** Next.js (Page Router), TypeScript, Vanilla Extract, TanStack Query
 **Deployment:** Bitbucket 기반 배포 (사내 인프라)
 
 #### hmall 단축 URL 페이지 리팩토링
@@ -34,7 +34,7 @@
 
 ## STCLab NetFUNNEL팀 Frontend Engineer
 
-**Tech Stack:** React, Vite, TypeScript
+**Tech Stack:** React, Vite, TypeScript, TanStack Query
 **Deployment:** GitHub Actions 기반 빌드 → Argo CD 배포 (SaaS)
 
 * 넷퍼넬 가상 대기실 SaaS – 대기 완료 사운드 기능 개발 [FE]
