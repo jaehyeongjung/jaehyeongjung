@@ -57,6 +57,7 @@
 - Git, Bitbucket
 - Vercel, GitHub Actions, Argo CD
 
----
+
+<br>
 
 - Email: whird398@naver.com
