@@ -25,24 +25,23 @@
 - GitHub Actions + Argo CD 기반 CI/CD 환경에서 프론트엔드 배포 파이프라인 운영
 - React, TypeScript, TanStack Query 기반 확장 가능한 컴포넌트 설계
 
-### 현대홈쇼핑 UI 개발파트팀 인턴 (2025.08 – 2025.10)
+<br>
 
-**hmall 단축 URL 페이지 리팩토링**
-- Compound Component Pattern 적용으로 UI/로직 분리
-- 재사용 가능한 컴포넌트 구조 설계 및 유지보수성 개선
+**현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
 
-**planH 보험사 페이지 마이그레이션 (JSP → Next.js)**
-- 레거시 JSP 페이지를 Next.js Page Router로 전환
-- 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
+- hmall 단축 URL 페이지 리팩토링
+  - Compound Component Pattern 적용으로 UI/로직 분리
+  - 재사용 가능한 컴포넌트 구조 설계 및 유지보수성 개선
 
-**전시매장 핀치줌 유틸리티 개발**
-- Admin flag 기반 조건부 핀치줌 기능 구현
-- 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
+- planH 보험사 페이지 마이그레이션 (JSP → Next.js)
+  - 레거시 JSP 페이지를 Next.js Page Router로 전환  
+  - 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
 
-**Tech Stack:** Next.js, TypeScript, Vanilla Extract, TanStack Query  
-**Deployment:** Bitbucket 기반 사내 인프라
+- 전시매장 핀치줌 유틸리티 개발**
+  - Admin flag 기반 조건부 핀치줌 기능 구현
+  - 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
 
----
+<br>
 
 ## 기술 스택
 
@@ -54,15 +53,10 @@
 **State Management**
 - Jotai, TanStack Query 
 
-**Real-time & API**
-- WebSocket, Supabase Realtime
-- RESTful API, Binance API
-
 **Tools & Deployment**
-- Git, GitHub, Bitbucket
+- Git, Bitbucket
 - Vercel, GitHub Actions, Argo CD
 
 ---
 
-## 연락처
 - Email: whird398@naver.com
