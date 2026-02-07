@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/c7fa6df3-eddf-45c4-ac17-b3532d3bb621
   - 레거시 JSP 페이지를 Next.js Page Router로 전환  
   - 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
 
-- 전시매장 핀치줌 유틸리티 개발**
+- 전시매장 핀치줌 유틸리티 개발
   - Admin flag 기반 조건부 핀치줌 기능 구현
   - 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
 
