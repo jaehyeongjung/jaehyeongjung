@@ -2,7 +2,7 @@
 
 ## TradeHub 
 
-### Demo Traiding 
+### Demo Trading 
 
 ![화면 기록 2026-02-07 오후 9 56 29](https://github.com/user-attachments/assets/84b3012b-5ec6-463b-b882-2bf7fd50f16e)
 
