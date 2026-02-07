@@ -1,48 +1,6 @@
-## 안녕하세요, 프론트엔드 개발자 정재형입니다
 
-실시간 데이터 처리와 사용자 경험 개선에 집중하는 개발자입니다.  
-현대홈쇼핑과 STCLab에서 실무 경험을 쌓으며, 개인 프로젝트를 통해 기술적 도전을 지속하고 있습니다.
 
----
-
-## 현재 진행 중
-
-**STCLab Frontend Engineer** (2025.11 – 현재)
-- 넷퍼넬 가상 대기실 SaaS 서비스 개발
-- GitHub Actions + Argo CD 기반 CI/CD 환경에서 프론트엔드 배포 파이프라인 운영
-- React, TypeScript, TanStack Query 기반 확장 가능한 컴포넌트 설계
-
-**개인 프로젝트 – TradeHub** ([tradehub.kr](https://www.tradehub.kr))
-- 실시간 암호화폐 트레이딩 대시보드
-- WebSocket 기반 실시간 데이터 스트리밍 (바이낸스 API)
-- Next.js 15 App Router, Jotai, Supabase Realtime 활용
-
----
-
-## 주요 경험
-
-### 현대홈쇼핑 UI 개발파트팀 인턴 (2025.08 – 2025.10)
-
-**hmall 단축 URL 페이지 리팩토링**
-- Compound Component Pattern 적용으로 UI/로직 분리
-- 재사용 가능한 컴포넌트 구조 설계 및 유지보수성 개선
-
-**planH 보험사 페이지 마이그레이션 (JSP → Next.js)**
-- 레거시 JSP 페이지를 Next.js Page Router로 전환
-- 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
-
-**전시매장 핀치줌 유틸리티 개발**
-- Admin flag 기반 조건부 핀치줌 기능 구현
-- 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
-
-**Tech Stack:** Next.js, TypeScript, Vanilla Extract, TanStack Query  
-**Deployment:** Bitbucket 기반 사내 인프라
-
----
-
-## 개인 프로젝트
-
-### TradeHub – 실시간 암호화폐 트레이딩 대시보드
+### TradeHub – 모의 선물 트레이딩 기능, 시장 흐름을 직관적으로 보는 대시보드
 
 <img width="1432" height="686" alt="TradeHub 메인" src="https://github.com/user-attachments/assets/9127d0b1-7da8-41da-8209-35c71487d16b" />
 <img width="1432" height="686" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
@@ -74,6 +32,33 @@
 
 ---
 
+
+## experience
+
+**STCLab Frontend Engineer** (2025.11 – 현재)
+- 넷퍼넬 가상 대기실 SaaS 서비스 개발
+- GitHub Actions + Argo CD 기반 CI/CD 환경에서 프론트엔드 배포 파이프라인 운영
+- React, TypeScript, TanStack Query 기반 확장 가능한 컴포넌트 설계
+
+### 현대홈쇼핑 UI 개발파트팀 인턴 (2025.08 – 2025.10)
+
+**hmall 단축 URL 페이지 리팩토링**
+- Compound Component Pattern 적용으로 UI/로직 분리
+- 재사용 가능한 컴포넌트 구조 설계 및 유지보수성 개선
+
+**planH 보험사 페이지 마이그레이션 (JSP → Next.js)**
+- 레거시 JSP 페이지를 Next.js Page Router로 전환
+- 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
+
+**전시매장 핀치줌 유틸리티 개발**
+- Admin flag 기반 조건부 핀치줌 기능 구현
+- 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
+
+**Tech Stack:** Next.js, TypeScript, Vanilla Extract, TanStack Query  
+**Deployment:** Bitbucket 기반 사내 인프라
+
+---
+
 ## 기술 스택
 
 **Frontend**
@@ -82,7 +67,7 @@
 - TailwindCSS, Vanilla Extract
 
 **State Management**
-- Jotai, TanStack Query
+- Jotai, TanStack Query 
 
 **Real-time & API**
 - WebSocket, Supabase Realtime
@@ -95,10 +80,4 @@
 ---
 
 ## 연락처
-
 - Email: whird398@naver.com
-- Blog: [velog.io/@whird625](https://velog.io/@whird625)
-- Portfolio: [tradehub.kr](https://www.tradehub.kr)
-
-실무에서는 레거시 마이그레이션과 컴포넌트 설계를,  
-개인 프로젝트에서는 실시간 데이터 처리와 최적화를 경험하며 성장하고 있습니다.
