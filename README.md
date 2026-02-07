@@ -7,11 +7,6 @@
 
 ### Demo Trading 
 
-![제목 없는 디자인](https://github.com/user-attachments/assets/4df12e18-b636-4539-ae60-8bd869321092)
-
-
-
-
 
 https://github.com/user-attachments/assets/ae9cfd37-c591-4ce2-a404-181a60b1661e
 
