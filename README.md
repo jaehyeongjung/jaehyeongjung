@@ -5,9 +5,8 @@
 
 ### Demo Trading 
 
-- stopLoss 이동 및 트레이딩 시연
 
-https://github.com/user-attachments/assets/c7fa6df3-eddf-45c4-ac17-b3532d3bb621
+![stopLoss](https://github.com/user-attachments/assets/ee7e4c63-d7c4-412b-a820-b738a947b418)
 
 
 
