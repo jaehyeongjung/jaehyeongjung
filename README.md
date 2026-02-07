@@ -1,6 +1,10 @@
 
 
-### TradeHub – 모의 선물 트레이딩 기능, 시장 흐름을 직관적으로 보는 대시보드
+### TradeHub 
+
+트레이딩에 활용되는 지표들을 한 페이지에서 보여주고 싶었습니다.
+
+
 
 <img width="1432" height="686" alt="TradeHub 메인" src="https://github.com/user-attachments/assets/9127d0b1-7da8-41da-8209-35c71487d16b" />
 <img width="1432" height="686" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
