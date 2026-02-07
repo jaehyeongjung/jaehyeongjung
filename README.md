@@ -2,15 +2,12 @@
 
 ## TradeHub 
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-TradeHub-181717?style=for-the-badge&logo=github)](https://github.com/jaehyeongjung/TradeHub)
-
 
 ### Demo Trading 
 
-![제목 없는 디자인](https://github.com/user-attachments/assets/09a194f8-a12a-4f49-88c4-a8413c428c33)
 
 
-
+https://github.com/user-attachments/assets/c7fa6df3-eddf-45c4-ac17-b3532d3bb621
 
 
 
