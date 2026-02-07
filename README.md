@@ -6,17 +6,14 @@
 ### Demo Trading 
 
 
-![stopLoss](https://github.com/user-attachments/assets/ee7e4c63-d7c4-412b-a820-b738a947b418)
-
+<img width="1920" height="967" alt="스크린샷 2026-02-08 오전 12 21 34" src="https://github.com/user-attachments/assets/8d53040c-d1a8-414d-8309-ea9f8c5e8c6f" />
 
 
 ### 크립토 시장의 흐름 시각화
 
-<p align="center">
-  <img width="49%" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
-  <img width="49%" alt="모바일 뷰" src="https://github.com/user-attachments/assets/cb1c74ef-492e-4a85-878e-5315ef52059c" />
-</p>
+  <img width="1920" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
 
+<img width="1920" alt="모바일 뷰" src="https://github.com/user-attachments/assets/cb1c74ef-492e-4a85-878e-5315ef52059c" />
 
 <br>
 
