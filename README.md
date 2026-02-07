@@ -1,40 +1,21 @@
 
 
-### TradeHub 
+## TradeHub 
 
-트레이딩에 활용되는 지표들을 한 페이지에서 보여주고 싶었습니다.
+### Demo Traiding 
 
-<img width="1432" height="686" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
+![화면 기록 2026-02-07 오후 9 56 29](https://github.com/user-attachments/assets/84b3012b-5ec6-463b-b882-2bf7fd50f16e)
 
-<img width="1432" height="686" alt="TradeHub 메인" src="https://github.com/user-attachments/assets/9127d0b1-7da8-41da-8209-35c71487d16b" />
 
-<img width="1432" height="686" alt="모바일 뷰" src="https://github.com/user-attachments/assets/cb1c74ef-492e-4a85-878e-5315ef52059c" />
+### 크립토 시장의 흐름 시각화
 
-**프로젝트 소개**
-- 코인 트레이더를 위한 실시간 데이터 대시보드
-- WebSocket 기반 실시간 시세, 청산 내역, 고래 거래 추적
-- 선물 모의투자, 김치프리미엄, 공포탐욕지수 등 종합 정보 제공
+<p align="center">
+  <img width="49%" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
+  <img width="49%" alt="모바일 뷰" src="https://github.com/user-attachments/assets/cb1c74ef-492e-4a85-878e-5315ef52059c" />
+</p>
 
-**핵심 구현 내용**
-- Binance WebSocket API를 활용한 실시간 데이터 스트리밍
-- Supabase Realtime 기반 채팅 및 접속자 수 표시
-- 탭 비활성 시 폴링 자동 중지 (`useVisibilityPolling`)로 리소스 최적화
-- lightweight-charts를 활용한 캔들스틱 차트 구현
-- 거래량 기반 Squarified Treemap 시각화
 
-**Tech Stack**
-- Frontend: Next.js 15 (App Router), TypeScript, TailwindCSS
-- State: Jotai
-- Real-time: WebSocket (Binance), Supabase Realtime
-- Backend: Supabase (PostgreSQL, Auth, Storage)
-- Deployment: Vercel
-
-**성과**
-- 기획부터 배포까지 단독 개발 완료
-- Velog 개발 과정 시리즈 7편 작성 ([시리즈 보기](https://velog.io/@whird625))
-- 실시간 데이터 처리 및 WebSocket 연결 안정성 확보
-
----
+<br>
 
 
 ## experience
