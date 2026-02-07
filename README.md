@@ -7,8 +7,8 @@
 
 ### Demo Trading 
 
+![제목 없는 디자인](https://github.com/user-attachments/assets/09a194f8-a12a-4f49-88c4-a8413c428c33)
 
-https://github.com/user-attachments/assets/ae9cfd37-c591-4ce2-a404-181a60b1661e
 
 
 
