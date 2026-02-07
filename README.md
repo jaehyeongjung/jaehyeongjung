@@ -7,7 +7,16 @@
 
 ### Demo Trading 
 
-![화면 기록 2026-02-07 오후 9 56 29](https://github.com/user-attachments/assets/84b3012b-5ec6-463b-b882-2bf7fd50f16e)
+![제목 없는 디자인](https://github.com/user-attachments/assets/4df12e18-b636-4539-ae60-8bd869321092)
+
+
+
+
+
+https://github.com/user-attachments/assets/ae9cfd37-c591-4ce2-a404-181a60b1661e
+
+
+
 
 
 ### 크립토 시장의 흐름 시각화
