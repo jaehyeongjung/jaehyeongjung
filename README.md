@@ -28,10 +28,12 @@
 - 표지션 체결/청산 sound
 - StopLoss 드래그 
 
-https://github.com/user-attachments/assets/3825118f-afdd-47ee-8fe4-a37c4ae33682
 
 
-<br>
+https://github.com/user-attachments/assets/8c18c31b-0247-4e9e-95dd-b2e21b1c9306
+
+
+
 
 ### 크립토 시장의 흐름 시각화
 
