@@ -11,6 +11,8 @@
 
 ---
 
+
+
 ## Motivation
 
 <a href="https://velog.io/@whird625/series/코인-커뮤니티" target="_blank">
@@ -23,8 +25,11 @@
 
 ### Demo Trading 
 
+- 표지션 체결/청산 sound
+- StopLoss 드래그 
 
-<img width="1920" height="967" alt="스크린샷 2026-02-08 오전 12 21 34" src="https://github.com/user-attachments/assets/8d53040c-d1a8-414d-8309-ea9f8c5e8c6f" />
+https://github.com/user-attachments/assets/3825118f-afdd-47ee-8fe4-a37c4ae33682
+
 
 <br>
 
