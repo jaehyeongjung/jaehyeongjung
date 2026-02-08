@@ -2,12 +2,16 @@
 
 ## TradeHub 
 
+### 실시간 암호화폐 선물 모의투자 플랫폼
+
+<br>
 
 ### Demo Trading 
 
 
 <img width="1920" height="967" alt="스크린샷 2026-02-08 오전 12 21 34" src="https://github.com/user-attachments/assets/8d53040c-d1a8-414d-8309-ea9f8c5e8c6f" />
 
+<br>
 
 ### 크립토 시장의 흐름 시각화
 
@@ -43,7 +47,7 @@
 
 <br>
 
-## 기술 스택
+## Skills
 
 **Frontend**
 - React, Next.js (App Router / Page Router)
