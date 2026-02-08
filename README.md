@@ -1,9 +1,12 @@
-
-
-## TradeHub 
-
-### 실시간 암호화폐 선물 모의투자 플랫폼
-
+# TradeHub
+실시간 암호화폐 선물 모의투자 플랫폼
+<p>
+  <a href="https://tradehub.kr" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_tradehub.kr-서비스_운영중-10B981?style=for-the-badge&labelColor=000000" alt="TradeHub Live" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/2025.09_~_-1F2937?style=for-the-badge" alt="Since 2025.09" />
+</p>
 <br>
 
 ### Demo Trading 
