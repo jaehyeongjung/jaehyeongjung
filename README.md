@@ -1,13 +1,25 @@
 # TradeHub
-실시간 암호화폐 선물 모의투자 플랫폼
+> **실시간 암호화폐 선물 모의투자 플랫폼**
+
 <p>
   <a href="https://tradehub.kr" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_tradehub.kr-서비스_운영중-10B981?style=for-the-badge&labelColor=000000" alt="TradeHub Live" />
+    <img src="https://img.shields.io/badge/🌐_tradehub.kr-10B981?style=for-the-badge&labelColor=000000" alt="Visit Site" />
   </a>
-  
-  <img src="https://img.shields.io/badge/2025.09_~_-1F2937?style=for-the-badge" alt="Since 2025.09" />
+  <img src="https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=for-the-badge&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/2025.09_~-gray?style=for-the-badge&labelColor=000000" alt="Since" />
 </p>
-<br>
+
+---
+
+## Motivation
+
+<a href="https://velog.io/@whird625/series/코인-커뮤니티" target="_blank">
+  <img src="https://img.shields.io/badge/Development_Journey-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=000000" alt="Velog Series" />
+</a>
+
+*기획부터 구현, 최적화까지의 전체 과정을 기록했습니다.*
+
+---
 
 ### Demo Trading 
 
