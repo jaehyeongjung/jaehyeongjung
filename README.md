@@ -5,8 +5,6 @@
   <a href="https://tradehub.kr" target="_blank">
     <img src="https://img.shields.io/badge/🌐_tradehub.kr-10B981?style=for-the-badge&labelColor=000000" alt="Visit Site" />
   </a>
-  <img src="https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=for-the-badge&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/2025.09_~-gray?style=for-the-badge&labelColor=000000" alt="Since" />
 </p>
 
 ---
@@ -24,9 +22,6 @@
 ---
 
 ### Demo Trading 
-
-- 표지션 체결/청산 sound
-- StopLoss 드래그 
 
 
 
