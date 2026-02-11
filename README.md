@@ -44,8 +44,8 @@
 
 **STCLab Frontend Engineer** (2025.11 – 현재)
 - 넷퍼넬 가상 대기실 SaaS/Onprem Console 개발
-- GitHub Actions + Argo CD 기반 CI/CD 환경에서 프론트엔드 배포 
-- React, TypeScript, TanStack Query 기반 확장 가능한 컴포넌트 설계
+- SaaS 4.6.2 스케줄링 
+- Onprem 4.5.5 bithumb Okta Login 
 
 <br>
 
