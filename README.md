@@ -23,11 +23,9 @@
 
 ### Demo Trading 
 
+<img width="1920" height="968" alt="스크린샷 2026-02-11 오후 9 42 44" src="https://github.com/user-attachments/assets/9f60a121-0c4f-4fe5-8d89-c8d0e36bcb9d" />
 
-
-https://github.com/user-attachments/assets/8c18c31b-0247-4e9e-95dd-b2e21b1c9306
-
-
+<img width="1920" height="968" alt="스크린샷 2026-02-11 오후 9 42 27" src="https://github.com/user-attachments/assets/7b93a1c5-9b40-4c2f-974c-8e7ee4c32977" />
 
 
 ### 크립토 시장의 흐름 시각화
