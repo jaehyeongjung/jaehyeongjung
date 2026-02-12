@@ -44,8 +44,6 @@
 
 **STCLab Frontend Engineer** (2025.11 – 현재)
 - 넷퍼넬 가상 대기실 SaaS/Onprem Console 개발
-- SaaS 4.6.2 스케줄링 
-- Onprem 4.5.5 bithumb Okta Login 
 
 <br>
 
