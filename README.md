@@ -17,13 +17,12 @@
   <img src="https://img.shields.io/badge/Development_Journey-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=000000" alt="Velog Series" />
 </a>
 
-*기획부터 구현, 최적화까지의 전체 과정을 기록했습니다.*
+기획부터 구현, 최적화까지의 전체 과정을 기록했습니다.
 
 ---
 
 ### Demo Trading 
 
-<img width="1920" height="968" alt="스크린샷 2026-02-11 오후 9 42 44" src="https://github.com/user-attachments/assets/9f60a121-0c4f-4fe5-8d89-c8d0e36bcb9d" />
 
 <img width="1920" height="968" alt="스크린샷 2026-02-11 오후 9 42 27" src="https://github.com/user-attachments/assets/7b93a1c5-9b40-4c2f-974c-8e7ee4c32977" />
 
