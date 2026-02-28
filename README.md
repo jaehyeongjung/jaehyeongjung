@@ -29,9 +29,9 @@
 
 ### 크립토 시장의 흐름 시각화
 
-  <img width="1920" alt="거래량 트리맵" src="https://github.com/user-attachments/assets/922f5c27-bd4d-44cc-b56d-bcd271fd0e93" />
+<img width="1438" height="688" alt="스크린샷 2026-02-28 오후 8 31 26" src="https://github.com/user-attachments/assets/9f5e8df2-5cf5-475c-848d-9b1ba37cda0b" />
 
-<img width="1920" alt="모바일 뷰" src="https://github.com/user-attachments/assets/cb1c74ef-492e-4a85-878e-5315ef52059c" />
+<img width="1440" height="688" alt="스크린샷 2026-02-28 오후 8 34 21" src="https://github.com/user-attachments/assets/4f8dd37b-b702-40eb-a4f5-1e4fa39b7ccb" />
 
 <br>
 
