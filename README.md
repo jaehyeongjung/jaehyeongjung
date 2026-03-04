@@ -1,37 +1,20 @@
-# TradeHub
-> **실시간 암호화폐 선물 모의투자 플랫폼**
 
-<p>
-  <a href="https://tradehub.kr" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_tradehub.kr-10B981?style=for-the-badge&labelColor=000000" alt="Visit Site" />
-  </a>
-</p>
-
----
-
-
-
-## Motivation
-
-<a href="https://velog.io/@whird625/series/코인-커뮤니티" target="_blank">
-  <img src="https://img.shields.io/badge/Development_Journey-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=000000" alt="Velog Series" />
-</a>
-
-기획부터 구현, 최적화까지의 전체 과정을 기록했습니다.
-
----
+# Tradehub 
 
 ### Demo Trading 
+<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 02 48" src="https://github.com/user-attachments/assets/809fd58a-fc0a-4a57-8ed1-da5e92e1b6f1" />
+
+<br>
+
+### DashBoard
+<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 03 03" src="https://github.com/user-attachments/assets/7077f800-532b-4375-b438-f7e93fc8b148" />
 
 
-<img width="1920" height="968" alt="스크린샷 2026-02-11 오후 9 42 27" src="https://github.com/user-attachments/assets/7b93a1c5-9b40-4c2f-974c-8e7ee4c32977" />
+### TreeView
+<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 06 38" src="https://github.com/user-attachments/assets/ee9713f0-584e-4f04-a366-d94c9a4e885e" />
 
 
-### 크립토 시장의 흐름 시각화
 
-<img width="1438" height="688" alt="스크린샷 2026-02-28 오후 8 31 26" src="https://github.com/user-attachments/assets/9f5e8df2-5cf5-475c-848d-9b1ba37cda0b" />
-
-<img width="1440" height="688" alt="스크린샷 2026-02-28 오후 8 34 21" src="https://github.com/user-attachments/assets/4f8dd37b-b702-40eb-a4f5-1e4fa39b7ccb" />
 
 <br>
 
