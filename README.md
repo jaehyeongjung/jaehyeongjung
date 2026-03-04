@@ -1,20 +1,36 @@
+# TradeHub
+crypto futures demo trading platform · live since 25.10
 
-# Tradehub 
+## Features
 
-### Demo Trading 
-<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 02 48" src="https://github.com/user-attachments/assets/809fd58a-fc0a-4a57-8ed1-da5e92e1b6f1" />
+### Demo Trading
+실시간 시세 기반 레버리지 선물 모의투자 · TP/SL 차트 드래그 조절 · 포지션 영속 저장
+<img width="1440" height="688" alt="Demo Trading" src="https://github.com/user-attachments/assets/809fd58a-fc0a-4a57-8ed1-da5e92e1b6f1" />
+<br>
+
+### Dashboard
+실시간 고래 거래 · 청산 · 김치프리미엄 · 공포탐욕지수 · 글로벌 시장 지수 한눈에 확인
+<img width="1440" height="688" alt="Dashboard" src="https://github.com/user-attachments/assets/f70cf489-991d-4c12-b2b1-d13f2740e4f5" />
+<br>
+
+### TreeView
+상위 150개 코인 거래대금 기반 트리맵 시각화 · 24h 변동률 색상 표시
+<img width="1440" height="688" alt="TreeView" src="https://github.com/user-attachments/assets/ee9713f0-584e-4f04-a366-d94c9a4e885e" />
 
 <br>
 
-### DashBoard
-<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 16 12" src="https://github.com/user-attachments/assets/f70cf489-991d-4c12-b2b1-d13f2740e4f5" />
+## Dev Log
 
-
-### TreeView
-<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 06 38" src="https://github.com/user-attachments/assets/ee9713f0-584e-4f04-a366-d94c9a4e885e" />
-
-
-
+| # | 제목 | 링크 |
+|---|------|------|
+| 1 | 왜 coinpan은 대박났을까? | [Velog](https://velog.io/@whird398) |
+| 2 | 구상 과정 | [Velog](https://velog.io/@whird398) |
+| 3 | 사용자 피드백 받고 UI 고도화하기 | [Velog](https://velog.io/@whird398) |
+| 4 | 바이낸스 API 451 에러 해결 | [Velog](https://velog.io/@whird398) |
+| 5 | 사람들은 돈이 몰리는 곳을 찾는다 | [Velog](https://velog.io/@whird398) |
+| 6 | 트리맵 오버레이 최적화 | [Velog](https://velog.io/@whird398) |
+| 7 | 리뉴얼, UI 개편과 실시간성 | [Velog](https://velog.io/@whird398) |
+| 8 | 선물 모의투자, 연습할 공간이 필요했다 | [Velog](https://velog.io/@whird398) |
 
 <br>
 
