@@ -4,7 +4,7 @@ crypto futures demo trading platform · live since 25.10
 ## Features
 
 ### Demo Trading
-실시간 시세 기반 레버리지 선물 모의투자 · TP/SL 차트 드래그 조절 · 포지션 영속 저장
+실시간 시세 기반 레버리지 선물 모의투자 · TP/SL 차트 드래그 조절 · 포지션 영속 저장 · 수익률 랭킹 시스템
 <img width="1440" height="688" alt="Demo Trading" src="https://github.com/user-attachments/assets/809fd58a-fc0a-4a57-8ed1-da5e92e1b6f1" />
 <br>
 
