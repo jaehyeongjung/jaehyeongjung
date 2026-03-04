@@ -7,7 +7,7 @@
 <br>
 
 ### DashBoard
-<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 03 03" src="https://github.com/user-attachments/assets/7077f800-532b-4375-b438-f7e93fc8b148" />
+<img width="1440" height="688" alt="스크린샷 2026-03-05 오전 12 16 12" src="https://github.com/user-attachments/assets/f70cf489-991d-4c12-b2b1-d13f2740e4f5" />
 
 
 ### TreeView
