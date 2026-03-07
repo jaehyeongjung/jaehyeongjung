@@ -1,5 +1,5 @@
 # TradeHub
-crypto futures demo trading platform · live since 25.10
+Crypto Futures Demo Trading Platform · live since 25.10
 
 ## Features
 
