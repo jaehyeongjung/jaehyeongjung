@@ -13,10 +13,6 @@ Crypto Futures Demo Trading Platform · live since 25.10
 <img width="1440" height="688" alt="Dashboard" src="https://github.com/user-attachments/assets/f70cf489-991d-4c12-b2b1-d13f2740e4f5" />
 <br>
 
-### TreeView
-상위 150개 코인 거래대금 기반 트리맵 시각화 · 24h 변동률 색상 표시
-<img width="1440" height="688" alt="TreeView" src="https://github.com/user-attachments/assets/ee9713f0-584e-4f04-a366-d94c9a4e885e" />
-
 <br>
 
 ## Dev Log
