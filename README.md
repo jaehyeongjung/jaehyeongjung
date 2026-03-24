@@ -1,16 +1,16 @@
 # TradeHub
 Crypto Futures Demo Trading Platform · live since 25.10
 
-## Features
 
 ### Demo Trading
-실시간 시세 기반 레버리지 선물 모의투자 · TP/SL 차트 드래그 조절 · 포지션 영속 저장 · 수익률 랭킹 시스템
-<img width="1440" height="688" alt="Demo Trading" src="https://github.com/user-attachments/assets/809fd58a-fc0a-4a57-8ed1-da5e92e1b6f1" />
+실시간 시세 기반 레버리지 선물 모의투자 · 수익률 랭킹 시스템 · 포지션 영속 저장 
+<img width="1440" height="686" alt="스크린샷 2026-03-24 오후 10 37 01" src="https://github.com/user-attachments/assets/1d0f2625-921a-4794-95b2-fa618d2b4dc9" />
+
 <br>
 
 ### Dashboard
-실시간 고래 거래 · 청산 · 김치프리미엄 · 공포탐욕지수 · 글로벌 시장 지수 한눈에 확인
-<img width="1440" height="688" alt="Dashboard" src="https://github.com/user-attachments/assets/f70cf489-991d-4c12-b2b1-d13f2740e4f5" />
+실시간 고래 거래 · 코인뉴스 · 김치프리미엄 · 공포탐욕지수 · 글로벌 시장 지수 한눈에 확인
+<img width="1440" height="686" alt="스크린샷 2026-03-24 오후 10 36 43" src="https://github.com/user-attachments/assets/62ea9cc6-8bdd-4be1-a8f9-980d57290e27" />
 <br>
 
 <br>
