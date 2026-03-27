@@ -2,14 +2,20 @@
 Crypto Futures Demo Trading Platform · live since 25.10
 
 
-### Demo Trading
-실시간 시세 기반 레버리지 선물 모의투자 · 수익률 랭킹 시스템 · 포지션 영속 저장 
-<img width="1440" height="686" alt="스크린샷 2026-03-24 오후 10 37 01" src="https://github.com/user-attachments/assets/1d0f2625-921a-4794-95b2-fa618d2b4dc9" />
-
-
-### Dashboard
-실시간 고래 거래 · 코인뉴스 · 김치프리미엄 · 공포탐욕지수 · 글로벌 시장 지수 한눈에 확인
-<img width="1440" height="686" alt="스크린샷 2026-03-24 오후 10 36 43" src="https://github.com/user-attachments/assets/62ea9cc6-8bdd-4be1-a8f9-980d57290e27" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Demo Trading</h3>
+      <p>실시간 시세 기반 레버리지 선물 모의투자<br>수익률 랭킹 시스템 · 포지션 영속 저장</p>
+      <img src="https://github.com/user-attachments/assets/1d0f2625-921a-4794-95b2-fa618d2b4dc9" width="100%" alt="Demo Trading Screenshot">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Dashboard</h3>
+      <p>실시간 고래 거래 · 코인뉴스 · 김치프리미엄<br>공포탐욕지수 · 글로벌 시장 지수</p>
+      <img src="https://github.com/user-attachments/assets/62ea9cc6-8bdd-4be1-a8f9-980d57290e27" width="100%" alt="Dashboard Screenshot">
+    </td>
+  </tr>
+</table>
 
 
 ## Dev Log
