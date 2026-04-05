@@ -1,6 +1,7 @@
 # TradeHub
 Crypto Futures Demo Trading Platform · live since 25.10
 
+🌐 Global Version: https://www.tradehub.kr/en
 
 <table width="100%">
   <tr>
