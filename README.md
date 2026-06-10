@@ -50,6 +50,7 @@ Crypto Futures Demo Trading Platform · live since 25.10
 
 **STCLab Frontend Engineer** (2025.11 – 현재)
 - NETFUNNEL SaaS/Onprem Console 개발
+- 코레일 onprem console 통계로그/모니터링 차트 개발 (eChart 기반)
 
 
 <br>
