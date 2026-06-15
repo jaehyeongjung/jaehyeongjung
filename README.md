@@ -76,6 +76,8 @@ Crypto Futures Demo Trading Platform · live since 25.10
 
 ## Skills
 
+개인적으로 Framer Motion으로 사용자가 느끼는 디테일을 설계하는 것을 좋아합니다.
+
 **Frontend**
 - React, Next.js 
 - TypeScript, JavaScript
