@@ -12,7 +12,7 @@ Crypto Futures Demo Trading Platform · live since 25.10
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Dashboard</h3>
-      <p>실시간 고래 거래 · 코인뉴스 · 김치프리미엄<br>공포탐욕지수 · 글로벌 시장 지수</p>
+      <p>실시간 고래 거래 · 코인뉴스 · 실시간 채팅 · 김치프리미엄<br>공포탐욕지수 · 글로벌 시장 지수</p>
       <img src="https://github.com/user-attachments/assets/62ea9cc6-8bdd-4be1-a8f9-980d57290e27" width="100%" alt="Dashboard Screenshot">
     </td>
   </tr>
