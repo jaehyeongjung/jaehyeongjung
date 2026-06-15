@@ -54,18 +54,16 @@ Crypto Futures Demo Trading Platform · live since 25.10
 **STCLab Frontend Engineer** (2025.11 – 현재)
 - 기존 NETFUNNEL SaaS/Onprem Console 유지보수 (2025.11 - ing)
   - SaaS 4.6.1 hotfix ~ 4.6.3 (대기열 진입 완료 사운드 기능 추가)
-  - onprem bithumb version (세션 마킹 -> okta login 리다이렉션 추가)
+  - Bithumb Onprem 버전 Okta 로그인 리다이렉션 추가 (세션 마킹 기반 구분)
   
 - 코레일 onprem NETFUNNEL console (2026.1 - 2026.5)
-  - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반 모니터링) (26.2 - 26.5)
+  - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반) 
   - 코레일 onprem NETFUNNEL console 기반으로 기존 콘솔 점진적 마이그레이션 설계 참여
-   - 기존 콘솔 onprem -> SaaS 확장 설계 참여 (onprem,SaaS,core 모노레퍼 pnpm build)
+   - 기존 콘솔 onprem -> SaaS 확장 설계 참여 (monorepo)
  
 - BEGA 프로젝트 (2026.5 - ing) 
-  - 코레일 onprem NETFUNNEL console 기반에, API 넷퍼넬 콘솔 추가
-  - 메트릭 페이지 구현 (websocket 기반 연결 메트릭 데이터 폴링)
-  - 커스텀 응답 페이지 구현 
-
+  - 코레일 onprem 기반에, API 넷퍼넬 추가 구현
+  - 메트릭, 커스텀 응답 console 구현 (websocket 기반 연결 메트릭 데이터 폴링)
 
 
 <br>
