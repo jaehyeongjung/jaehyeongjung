@@ -99,6 +99,7 @@ Crypto Futures Demo Trading Platform · live since 25.10
 **Tools & Deployment**
 - Git, Bitbucket
 - AWS EC2 (Session Manager, PM2 배포)
+- Supabase
 
 <br>
 
