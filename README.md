@@ -54,7 +54,7 @@ Crypto Futures Demo Trading Platform · live since 25.10
 **STCLab Frontend Engineer** (2025.11 – 현재)
 - 기존 NETFUNNEL SaaS/Onprem Console 유지보수 (2025.11 - ing)
   - SaaS 4.6.1 hotfix ~ 4.6.3 (대기열 진입 완료 사운드 기능 추가)
-  - Bithumb Onprem 버전 Okta 로그인 리다이렉션 추가 (세션 마킹 기반 구분)
+  - 빗썸 Onprem 버전 Okta 로그인 리다이렉션 추가 (세션 마킹 기반 구분)
   
 - 코레일 onprem NETFUNNEL console (2026.1 - 2026.5)
   - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반) 
