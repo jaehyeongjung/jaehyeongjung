@@ -18,6 +18,8 @@ Crypto Futures Demo Trading Platform · live since 25.10
   </tr>
 </table>
 
+## 26년 GA
+
 <img width="480" height="270" alt="스크린샷 2026-06-15 오후 11 37 52" src="https://github.com/user-attachments/assets/02e5febf-a55b-4037-9b54-1d804782b4d0" />
 
 ## Dev Log
