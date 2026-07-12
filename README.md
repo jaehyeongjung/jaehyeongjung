@@ -1,9 +1,10 @@
 
 ## Developer 
 
-- **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
+- **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)  
 
 - **현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
+
 
 <br>
 
@@ -25,8 +26,8 @@
 | 10 | 사용자 유입 GA, 수익 모델 | [Read](https://velog.io/@whird625/%EC%BD%94%EC%9D%B8-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A1%9C-%EB%A7%88%EC%9D%8C-%EB%A8%B9%EC%97%88%EB%8B%A4-10%ED%8E%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%9D%B5-%EB%AA%A8%EB%8D%B8) |
 
 
-
 <br>
+
 
 
 ## Contact
