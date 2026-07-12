@@ -1,4 +1,8 @@
 
+<a href="https://www.tradehub.kr/dashboard" target="_blank">
+  <img src="https://img.shields.io/badge/TradeHub_Dashboard-since_2025.10%20%E2%86%92-0052FF?style=flat-square"/>
+</a>
+
 ## Developer 
 
 - **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
