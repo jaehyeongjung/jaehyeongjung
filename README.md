@@ -1,26 +1,19 @@
-# TradeHub
-Crypto Futures Demo Trading Platform · live since 25.10
 
-🌐 Global Version: https://www.tradehub.kr/en
+## experience
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Dashboard</h3>
-      <p>실시간 고래 거래 · 코인뉴스 · 실시간 채팅 · 김치프리미엄<br>공포탐욕지수 · 글로벌 시장 지수</p>
-      <img src="https://github.com/user-attachments/assets/62ea9cc6-8bdd-4be1-a8f9-980d57290e27" width="100%" alt="Dashboard Screenshot">
-    </td>
-        <td width="50%" align="center" valign="top">
-      <h3>Demo Trading</h3>
-      <p>실시간 시세 기반 레버리지 선물 모의투자<br>수익률 랭킹 시스템 · 포지션 영속 저장</p>
-      <img src="https://github.com/user-attachments/assets/1d0f2625-921a-4794-95b2-fa618d2b4dc9" width="100%" alt="Demo Trading Screenshot">
-    </td>
-  </tr>
-</table>
+**STCLab Frontend Engineer** (2025.11 – 현재)
 
-## 26년 GA
+**현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
 
-<img width="480" height="270" alt="스크린샷 2026-06-15 오후 11 37 52" src="https://github.com/user-attachments/assets/02e5febf-a55b-4037-9b54-1d804782b4d0" />
+
+
+<br>
+
+## Contact
+
+**email: whird398@naver.com**
+
+<br>
 
 ## Dev Log
 > TradeHub의 기획부터 최적화까지의 기록
@@ -49,60 +42,3 @@ Crypto Futures Demo Trading Platform · live since 25.10
 
 
 
-## experience
-
-**STCLab Frontend Engineer** (2025.11 – 현재)
-- 기존 NETFUNNEL SaaS/Onprem Console 유지보수 (2025.11 - ing)
-  - SaaS 4.6.1 hotfix ~ 4.6.3 (대기열 진입 완료 사운드 기능 추가)
-  - 빗썸 Onprem 버전 Okta 로그인 리다이렉션 추가 (세션 마킹 기반 구분)
-  
-- 코레일 onprem NETFUNNEL console (2026.1 - 2026.5)
-  - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반) 
-  - 코레일 onprem NETFUNNEL console 기반으로 기존 콘솔 점진적 마이그레이션 설계 참여
-   - 기존 콘솔 onprem -> SaaS 확장 설계 참여 (monorepo)
- 
-- BEGA 프로젝트 (2026.5 - ing) 
-  - 코레일 onprem 기반에, API 넷퍼넬 추가 구현
-  - 메트릭, 커스텀 응답 console 구현 (websocket 기반 연결 메트릭 데이터 폴링)
-
-
-<br>
-
-**현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
-
-- hmall 단축 URL 페이지 리팩토링
-  - Compound Component Pattern 적용으로 UI/로직 분리
-  - 재사용 가능한 컴포넌트 구조 설계 및 유지보수성 개선
-
-- planH 보험사 페이지 마이그레이션 (JSP → Next.js)
-  - 레거시 JSP 페이지를 Next.js Page Router로 전환  
-  - 지점찾기 페이지 구현 및 사내 배포 프로세스 경험
-
-- hmall 전시매장 핀치줌 유틸리티 개발
-  - Admin flag 기반 조건부 핀치줌 기능 구현
-  - 동적 HTML 환경에서 안정적인 이벤트 처리 최적화
-
-<br>
-
-## Skills
-
-개인적으로 Framer Motion으로 사용자가 느끼는 디테일을 설계하는 것을 좋아합니다.
-
-**Frontend**
-- React, Next.js 
-- TypeScript, JavaScript
-- TailwindCSS, Emotion 
-
-**State Management**
-- TanStack Query 
-
-**Tools & Deployment**
-- Git, Bitbucket
-- AWS EC2 (Session Manager, PM2 배포)
-- Supabase
-
-<br>
-
-## Contact
-
-**email: whird398@naver.com**
