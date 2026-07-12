@@ -1,7 +1,7 @@
 
 ## Developer 
 
-- **STCLab Frontend Engineer 넷퍼넬팀** (2025.11 – 현재)
+- **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
 
 - **현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
 
