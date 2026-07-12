@@ -1,9 +1,9 @@
 
 ## experience
 
-**STCLab Frontend Engineer** (2025.11 – 현재)
+- **STCLab Frontend Engineer** (2025.11 – 현재)
 
-**현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
+- **현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
 
 
 
@@ -11,7 +11,7 @@
 
 ## Contact
 
-**email: whird398@naver.com**
+- **email: whird398@naver.com**
 
 <br>
 
