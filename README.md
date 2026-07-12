@@ -2,7 +2,7 @@
 ## Developer 
 
 - **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
-  - 코레일 onprem NETFUNNEL console 
+  - 코레일 On-Premise NETFUNNEL 콘솔 개발
   - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반) 
 
 - **현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
