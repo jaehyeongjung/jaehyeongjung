@@ -1,7 +1,4 @@
-
-<a href="https://www.tradehub.kr/dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/TradeHub_Dashboard-since_2025.10%20%E2%86%92-0052FF?style=flat-square"/>
-</a>
+### 크립토 플랫폼 [TradeHub](https://www.tradehub.kr) 운영 중 🟢
 
 ## Developer 
 
