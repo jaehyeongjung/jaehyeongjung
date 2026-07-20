@@ -2,11 +2,10 @@
 <p align="center">
   <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
   <br>
-  <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드</sub>
+  <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:06B6D4&height=3&section=header)
-
 
 
 
