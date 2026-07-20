@@ -7,8 +7,7 @@
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
-
-## Career
+  ## Career
 
   <table>
     <tr>
@@ -17,12 +16,12 @@
         <sub>2025.11 – 현재</sub>
       </td>
       <td valign="top">
-        <b>Frontend Engineer</b> &nbsp;<sub>넷퍼넬팀</sub>
+        <b>Frontend Engineer</b> · 넷퍼넬팀
         <br><br>
         • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
-        • 넷퍼넬 통계로그 · 모니터링 차트 개발 &nbsp;<sub>ECharts · 폴링</sub>
+        • 넷퍼넬 통계로그 · 모니터링 차트 개발 (ECharts, 폴링)
         <br><br>
-        <code>TypeScript</code> &nbsp;<code>React</code> &nbsp;<code>ECharts</code>
+        <code>TypeScript</code> <code>React</code> <code>ECharts</code>
       </td>
     </tr>
     <tr>
@@ -33,14 +32,13 @@
       <td valign="top">
         <b>UI 개발파트 인턴</b>
         <br><br>
-        • 이미지 핀치줌 동적 활성화 유틸리티 &nbsp;<sub>react-zoom-pan-pinch</sub><br>
-        • hmall 단축 URL 페이지 리팩토링 &nbsp;<sub>Compound Component Pattern</sub>
+        • 이미지 핀치줌 동적 활성화 유틸리티 개발 (react-zoom-pan-pinch)<br>
+        • hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
         <br><br>
-         <code>Next.js</code>&nbsp;<code>React</code> &nbsp;<code>TypeScript</code>
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code>
       </td>
     </tr>
   </table>
-
 
 <br>
 
