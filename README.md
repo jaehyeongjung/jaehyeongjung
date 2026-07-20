@@ -8,7 +8,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
 
-## work
+## Career
 
   <table>
     <tr>
