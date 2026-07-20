@@ -10,13 +10,15 @@
 
 
 
+<div align="center">
+
 <table>
   <tr>
     <td valign="top" width="160">
       <b>STCLab</b><br>
       <sub>2025.11 – 현재</sub>
     </td>
-    <td valign="top">
+    <td valign="top" align="left">
       <b>Frontend Engineer</b> &nbsp;<sub>넷퍼넬팀</sub>
       <br><br>
       • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
@@ -30,7 +32,7 @@
       <b>현대홈쇼핑</b><br>
       <sub>2025.08 – 2025.10</sub>
     </td>
-    <td valign="top">
+    <td valign="top" align="left">
       <b>UI개발파트 인턴</b>
       <br><br>
       • 이미지 핀치줌 동적 활성화 유틸리티 &nbsp;<sub>react-zoom-pan-pinch</sub><br>
@@ -41,6 +43,7 @@
   </tr>
 </table>
 
+</div>
 
 
 <br>
