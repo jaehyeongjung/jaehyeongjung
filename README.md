@@ -1,3 +1,6 @@
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=180&section=header&text=TradeHub&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Crypto%20Platform&descSize=18&descAlignY=60&animation=fadeIn)
+
 ### 크립토 플랫폼 [TradeHub](https://www.tradehub.kr) 운영 중 🟢
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:06B6D4&height=3&section=header)
