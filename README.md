@@ -9,13 +9,37 @@
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
 
 
-## Experience
 
-| | |
-|---|:---|
-| **STCLab**<br><sub>2025.11 – 현재</sub> | **Frontend Engineer** · 넷퍼넬팀<br>· 코레일 On-Premise NETFUNNEL 콘솔 개발<br>· 넷퍼넬 통계로그 · 모니터링 차트 개발 (ECharts, 폴링)<br>`TypeScript` `React` `ECharts` |
-| **현대홈쇼핑**<br><sub>2025.08 – 2025.10</sub> | **UI개발파트 인턴**<br>· 이미지 핀치줌 동적 활성화 유틸리티 (react-zoom-pan-pinch)<br>· hmall 단축 URL 리팩토링 (Compound Component Pattern)<br>`React` `TypeScript` |
-    
+<table>
+  <tr>
+    <td valign="top" width="160">
+      <b>STCLab</b><br>
+      <sub>2025.11 – 현재</sub>
+    </td>
+    <td valign="top">
+      <b>Frontend Engineer</b> &nbsp;<sub>넷퍼넬팀</sub>
+      <br><br>
+      • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
+      • 넷퍼넬 통계로그 · 모니터링 차트 개발 &nbsp;<sub>ECharts · 폴링</sub>
+      <br><br>
+      <code>TypeScript</code> &nbsp;<code>React</code> &nbsp;<code>ECharts</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="160">
+      <b>현대홈쇼핑</b><br>
+      <sub>2025.08 – 2025.10</sub>
+    </td>
+    <td valign="top">
+      <b>UI개발파트 인턴</b>
+      <br><br>
+      • 이미지 핀치줌 동적 활성화 유틸리티 &nbsp;<sub>react-zoom-pan-pinch</sub><br>
+      • hmall 단축 URL 페이지 리팩토링 &nbsp;<sub>Compound Component Pattern</sub>
+      <br><br>
+      <code>React</code> &nbsp;<code>TypeScript</code>
+    </td>
+  </tr>
+</table>
 
 
 
