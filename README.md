@@ -11,13 +11,14 @@
 
 
 
-- **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
-  - 코레일 On-Premise NETFUNNEL 콘솔 개발
-  - 넷퍼넬 사용량 데이터 통계로그/모니터링 차트 개발 (eChart 기반 커스텀 차트, 폴링 기반) 
 
-- **현대홈쇼핑 UI 개발파트팀 인턴** (2025.08 – 2025.10)
-  - 어드민 플래그(Flag) 설정에 따라 사용자 화면의 이미지 핀치줌 기능이 동적으로 활성화되는 유틸리티 개발 (react-zoom-pan-pinch 기반)
-  - hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
+
+## Experience
+
+| | |
+|---|:---|
+| **STCLab**<br><sub>2025.11 – 현재</sub> | **Frontend Engineer** · 넷퍼넬팀<br>· 코레일 On-Premise NETFUNNEL 콘솔 개발<br>· 넷퍼넬 통계로그 · 모니터링 차트 개발 (ECharts, 폴링)<br>`TypeScript` `React` `ECharts` |
+| **현대홈쇼핑**<br><sub>2025.08 – 2025.10</sub> | **UI개발파트 인턴**<br>· 이미지 핀치줌 동적 활성화 유틸리티 (react-zoom-pan-pinch)<br>· hmall 단축 URL 리팩토링 (Compound Component Pattern)<br>`React` `TypeScript` |
     
 
 
