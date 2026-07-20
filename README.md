@@ -1,5 +1,8 @@
 ### 크립토 플랫폼 [TradeHub](https://www.tradehub.kr) 운영 중 🟢
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:06B6D4&height=3&section=header)
+
+
 ## Developer 
 
 - **STCLab 넷퍼넬팀 Frontend Engineer** (2025.11 – 현재)
