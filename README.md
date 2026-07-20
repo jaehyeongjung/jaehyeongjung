@@ -31,12 +31,12 @@
         <sub>2025.08 – 2025.10</sub>
       </td>
       <td valign="top">
-        <b>UI개발파트 인턴</b>
+        <b>UI 개발파트 인턴</b>
         <br><br>
         • 이미지 핀치줌 동적 활성화 유틸리티 &nbsp;<sub>react-zoom-pan-pinch</sub><br>
         • hmall 단축 URL 페이지 리팩토링 &nbsp;<sub>Compound Component Pattern</sub>
         <br><br>
-        <code>React</code> &nbsp;<code>TypeScript</code>
+         <code>Next.js</code>&nbsp;<code>React</code> &nbsp;<code>TypeScript</code>
       </td>
     </tr>
   </table>
