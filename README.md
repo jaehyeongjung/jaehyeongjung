@@ -10,18 +10,6 @@
 </p>
 
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-     <img src="https://github.com/user-attachments/assets/0b653933-0e38-44a7-a7e1-71e574e13fa3" width="100%" alt="대시보드"  /><br>
-      <sub>실시간 대시보드</sub>
-    </td>
-    <td width="50%" align="center">
-       <img src="https://github.com/user-attachments/assets/7dbd24c2-d6fb-4ff4-81a9-4ff385ad74b2" width="100%" alt="모의투자" /><br>
-      <sub>선물 모의투자</sub>
-    </td>
-  </tr>
-</table>
 
 
 
