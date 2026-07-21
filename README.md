@@ -3,23 +3,6 @@
 </a>
 </p>
 
-  <p align="center">
-    <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
-    <br>
-    <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드</sub>
-    <br><br>
-    <a href="https://www.tradehub.kr"><img src="https://img.shields.io/badge/Visit%20tradehub.kr-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit" /></a>
-    &nbsp;
-    <a href="https://github.com/jaehyeongjung/tradehub"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-  </p>
-
-
-
-
-
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
-  
   ## Career
 
   <table>
