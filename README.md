@@ -5,7 +5,14 @@
   <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
 </p>
 
-
+  <a href="https://www.tradehub.kr">
+    <img src="https://img.shields.io/badge/🔗_Live-10B981?style=flat-square&labelColor=0D1117" alt="Live" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jaehyeongjung/tradehub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
 
 <table>
   <tr>
@@ -19,6 +26,8 @@
     </td>
   </tr>
 </table>
+
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
   ## Career
