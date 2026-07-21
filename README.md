@@ -3,16 +3,16 @@
   <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
   <br>
   <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
-</p>
-
+  <br><br>
   <a href="https://www.tradehub.kr">
-    <img src="https://img.shields.io/badge/🔗_Live-10B981?style=flat-square&labelColor=0D1117" alt="Live" />
+    <img src="https://img.shields.io/badge/Live-tradehub.kr-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live" />
   </a>
   &nbsp;
   <a href="https://github.com/jaehyeongjung/tradehub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
-  
+</p>
+
 
 <table>
   <tr>
