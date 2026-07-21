@@ -19,7 +19,7 @@
         <b>Frontend Engineer</b> · 넷퍼넬팀
         <br><br>
         • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
-        • 넷퍼넬 통계로그 · 실시간 모니터링 차트 개발 (ECharts 기반 커스텀)
+        • 넷퍼넬 사용량 통계로그 · 실시간 모니터링 차트 개발 (ECharts 기반 커스텀)
         <br><br>
         <code>TypeScript</code> <code>React</code> <code>ECharts</code>
       </td>
