@@ -1,13 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:06B6D4&height=180&section=header&text=TradeHub&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Crypto%20Platform&descSize=18&descAlignY=60&animation=fadeIn)
-<p align="center">
-  <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
-  <br>
-  <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
-  <br><br>
-  <a href="https://www.tradehub.kr"><img src="https://img.shields.io/badge/Visit%20tradehub.kr-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit" /></a>
-  &nbsp;
-  <a href="https://github.com/jaehyeongjung/tradehub"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-</p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/747269ef-5dd0-4446-ada3-64abc3e01744" width="100%" alt="TradeHub" />
+  </p>
+
+  <p align="center">
+    <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
+    <br>
+    <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드</sub>
+    <br><br>
+    <a href="https://www.tradehub.kr"><img src="https://img.shields.io/badge/Visit%20tradehub.kr-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit" /></a>
+    &nbsp;
+    <a href="https://github.com/jaehyeongjung/tradehub"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  </p>
+
 
 
 
