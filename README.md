@@ -40,7 +40,7 @@
         • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
         • 넷퍼넬 사용량 통계로그 · 실시간 모니터링 차트 개발 (ECharts 기반 커스텀)
         <br><br>
-        <code>TypeScript</code> <code>React</code> <code>ECharts</code>
+<code>TypeScript</code> <code>React</code> <code>TanStack Query</code> <code>Ant Design</code> <code>ECharts</code>
       </td>
     </tr>
     <tr>
@@ -51,10 +51,10 @@
       <td valign="top">
         <b>UI 개발파트 인턴</b>
         <br><br>
-        • hmall 전시매장 - amdin에서 이미지 주입 시 flag에 따른 줌핀치 활성화 유틸리티 개발 <br>
+        • hmall 전시매장 - admin에서 이미지 주입 시 flag에 따른 줌핀치 활성화 유틸리티 개발 <br>
         • hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
         <br><br>
-        <code>Next.js</code> <code>React</code> <code>TypeScript</code>
+        <code>Next.js</code> <code>TypeScript</code> <code>vanilla-extract</code>
       </td>
     </tr>
   </table>
