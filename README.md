@@ -1,7 +1,6 @@
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/747269ef-5dd0-4446-ada3-64abc3e01744" width="100%" alt="TradeHub" />
-  </p>
+<p align="center">
+  <a href="https://www.tradehub.kr"><img src="https://github.com/user-attachments/assets/747269ef-5dd0-4446-ada3-64abc3e01744" width="100%" alt="TradeHub" /></a>
+</p>
 
   <p align="center">
     <b>크립토 플랫폼 <a href="https://www.tradehub.kr">TradeHub</a> 운영 중</b>
