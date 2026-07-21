@@ -4,13 +4,9 @@
   <br>
   <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
   <br><br>
-  <a href="https://www.tradehub.kr">
-      <img src="https://img.shields.io/badge/Visit-tradehub.kr-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Visit" />
-    </a>
+  <a href="https://www.tradehub.kr"><img src="https://img.shields.io/badge/Visit%20tradehub.kr-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit" /></a>
   &nbsp;
-  <a href="https://github.com/jaehyeongjung/tradehub">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
+  <a href="https://github.com/jaehyeongjung/tradehub"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </p>
 
 
