@@ -32,7 +32,7 @@
       <td valign="top">
         <b>UI 개발파트 인턴</b>
         <br><br>
-        • 이미지 핀치줌 동적 활성화 유틸리티 개발 (react-zoom-pan-pinch)<br>
+        • hmall 전시매장 - amdin에서 이미지 주입 시 flag에 따른 줌핀치 활성화 유틸리티 개발 <br>
         • hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
         <br><br>
         <code>Next.js</code> <code>React</code> <code>TypeScript</code>
