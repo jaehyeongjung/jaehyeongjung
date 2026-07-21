@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://www.tradehub.kr"><img src="https://github.com/user-attachments/assets/747269ef-5dd0-4446-ada3-64abc3e01744" width="100%" alt="TradeHub" /></a>
+  <a href="https://www.tradehub.kr"><img width="1500" height="430" alt="tradehub-banner" src="https://github.com/user-attachments/assets/992fd6b8-f4fb-43e3-bebf-be8046f1b788" />
+</a>
 </p>
 
   <p align="center">
