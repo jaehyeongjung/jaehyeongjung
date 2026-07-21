@@ -3,13 +3,6 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://www.tradehub.kr"><img width="1500" height="430" alt="tradehub-banner" src="https://github.com/user-attachments/assets/20e0c901-063d-4d1e-b776-eadce59f7206" />
-</a>
-</p>
-
-
-
 
   ## Career
 
