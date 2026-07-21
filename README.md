@@ -5,44 +5,39 @@
 
 <br>
 
+
 ## Career
 
-  <table>
-    <tr>
-      <td valign="top" width="160">
-        <img src="https://github.com/user-attachments/assets/0632426c-d49f-4f55-bc6d-f97be8a65669" height="22" alt="STCLab"/><br>
-        <sub>2025.11 – 현재</sub>
-      </td>
-      <td valign="top">
-        <b>Frontend Engineer</b> · 넷퍼넬팀
-        <br><br>
-        • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
-        • 넷퍼넬 사용량 통계로그 · 실시간 모니터링 차트 개발 (ECharts 기반 커스텀)
-        <br><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="160">
-        <img src="https://github.com/user-attachments/assets/a5e26e3d-0557-4762-b685-1f9a5d810242" height="20" alt="현대홈쇼핑"/><br>
-        <sub>2025.08 – 2025.10</sub>
-      </td>
-      <td valign="top">
-        <b>UI 개발파트 인턴</b>
-        <br><br>
-        • hmall 전시매장 - admin에서 이미지 주입 시 flag에 따른 줌핀치 활성화 유틸리티 개발 <br>
-        • hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
-        <br><br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/vanilla--extract-FF017D?style=flat-square&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td valign="top" width="160">
+      <b>STCLab</b><br>
+      <sub>2025.11 – 현재</sub>
+    </td>
+    <td valign="top">
+      <b>Frontend Engineer</b> · 넷퍼넬팀
+      <br><br>
+      • 코레일 On-Premise NETFUNNEL 콘솔 개발<br>
+      • 넷퍼넬 사용량 통계로그 · 실시간 모니터링 차트 개발 (ECharts 기반 커스텀)
+      <br><br>
+      <code>TypeScript</code> <code>React</code> <code>TanStack Query</code> <code>Ant Design</code> <code>ECharts</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="160">
+      <b>현대홈쇼핑</b><br>
+      <sub>2025.08 – 2025.10</sub>
+    </td>
+    <td valign="top">
+      <b>UI 개발파트 인턴</b>
+      <br><br>
+      • hmall 전시매장 - admin에서 이미지 주입 시 flag에 따른 줌핀치 활성화 유틸리티 개발 <br>
+      • hmall 단축 URL 페이지 리팩토링 (Compound Component Pattern)
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>vanilla-extract</code>
+    </td>
+  </tr>
+</table>
 
 
 
