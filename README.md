@@ -5,6 +5,8 @@
   <sub>실시간 크립토 선물 모의투자 · 시장 데이터 대시보드 &nbsp;·&nbsp; since 2025.10 ~ now</sub>
 </p>
 
+<img width="1920" height="968" alt="스크린샷 2026-07-20 오후 10 30 24" src="https://github.com/user-attachments/assets/213c7a3e-b619-4f36-a0f3-d80b5237b0b7" />
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:06B6D4&height=3&section=header)
   ## Career
